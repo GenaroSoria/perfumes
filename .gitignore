@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+*.log
+
+# Datos reales de la tienda (productos y pedidos con datos personales)
+server/data/*.xlsx
+server/data/*.tmp
+server/data/imagenes/*
+!server/data/imagenes/.gitkeep
+# Archivos de bloqueo que crea Excel al abrir un libro
+~$*
+
+# Configuración personal del editor
+.vscode/

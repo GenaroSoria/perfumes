@@ -1,0 +1,9 @@
+# Texto de la sección "¿Quiénes somos?" de la web.
+# Separá cada párrafo con una línea en blanco. Las líneas que empiezan con # no se muestran.
+# Los cambios se ven al recargar la página, sin reiniciar nada.
+
+En Perfumes Marcia ofrecemos perfumes textiles, desodorantes de ambiente y productos de limpieza para tu casa, tu negocio o tu emprendimiento.
+
+Trabajamos con fragancias seleccionadas y presentaciones para todos los usos: desde envases chicos para probar hasta bidones de 5 litros para quienes compran por mayor.
+
+Nos gusta atender de cerca: escribinos por WhatsApp o Instagram y te ayudamos a elegir el aroma ideal.
